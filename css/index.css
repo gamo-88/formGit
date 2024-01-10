@@ -6,6 +6,7 @@
 body{
     display: flex;
     justify-content: center;
+    background: linear-gradient(to left red , orange,yellow);
 }
 .container{
     margin-top: 100px;
@@ -41,8 +42,4 @@ h1{
     text-align: center;
     margin-top: 15px;
     margin-bottom: 15px;
-}
-
-body{
-    background: linear-gradient(to left red , orange,yellow);
 }
